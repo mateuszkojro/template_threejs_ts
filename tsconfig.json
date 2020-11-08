@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "watch": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "outDir": "./out"
+  },
+  "include": ["./src/*"]
+}
